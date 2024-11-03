@@ -1,6 +1,6 @@
   # Hi, I'm Manuel Dios 👋
 
-I2m student of Civil Engineering in Computing. I like linux. 
+I'm student of Civil Engineering in Computing. I like linux. 
 
 
 ## Lenguages and Tools 🛠
@@ -13,6 +13,5 @@ I2m student of Civil Engineering in Computing. I like linux.
 
 
 I have been using Linux as my main operating system for two and a half years, which has allowed me to develop a good foundation in system administration and the use of command line tools.
-My goal is to continue growing in the computing field, especially in areas related to IT infrastructure, programming and the cloud. I aspire to develop skills that allow me to face complex challenges in the field of software engineering and systems administration.
-
+My goal is to continue growing in the computing field, Especially in areas such as cybersecurity or data science. 
 
