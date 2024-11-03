@@ -11,7 +11,6 @@ I'm student of Civil Engineering in Computing. I like linux.
 ![image](https://github.com/user-attachments/assets/ef7f9538-0c2a-4e2e-afc8-b3281c1f986a)
 
 
-(https://github-readme-stats.vercel.app/api/top-langs/?username=NeoManD10&theme=radical)](https://github.com/NeoManD10/github-readme-stats)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NeoManD10&theme=radical&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 
