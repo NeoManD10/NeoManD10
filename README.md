@@ -11,6 +11,9 @@ Lenguages and Tools 🛠
 ![image](https://github.com/user-attachments/assets/00918dbf-6ec4-4233-affa-6e66eb16a87d)
 ![image](https://github.com/user-attachments/assets/0f3e887c-64e9-4201-9e39-72bf8a14538b)
 ![image](https://github.com/user-attachments/assets/cb1974a4-6054-4ab9-b81e-a0f9505fe3e5)
+![image](https://github.com/user-attachments/assets/03a3632e-8754-46d4-8c89-e51c6665f23a)
+
+
 
 
 My goal is to continue growing in the computing field, especially in areas related to IT infrastructure, programming and the cloud. I aspire to develop skills that allow me to face complex challenges in the field of software engineering and systems administration.
