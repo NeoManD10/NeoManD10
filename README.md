@@ -8,7 +8,6 @@ I am Manuel Ignacio Dios Campos, student of Civil Engineering in Computing. I am
 
 Lenguages and Tools 🛠
 ![image](https://github.com/user-attachments/assets/3c1dd439-8698-440b-9a57-5b91d91951c8)
-![image](https://github.com/user-attachments/assets/1cf3aba9-d05f-4326-83d8-05a8150073ee)
 ![image](https://github.com/user-attachments/assets/00918dbf-6ec4-4233-affa-6e66eb16a87d)
 ![image](https://github.com/user-attachments/assets/0f3e887c-64e9-4201-9e39-72bf8a14538b)
 ![image](https://github.com/user-attachments/assets/cb1974a4-6054-4ab9-b81e-a0f9505fe3e5)
