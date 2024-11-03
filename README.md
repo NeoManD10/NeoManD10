@@ -6,15 +6,14 @@ I am Manuel Ignacio Dios Campos, student of Civil Engineering in Computing. I am
 
 - **Operating Systems**: I have been using Linux as my main operating system for two and a half years, which has allowed me to develop a good foundation in system administration and the use of command line tools.
 
-- **Programming Languages**:
-  - **C**: With knowledge of low-level programming, memory management and optimization.
-  - **Python**: Experience in high-level programming, task automation and script development for various applications.
-  - **Bash Scripting**: Development of scripts for system administration and automation tasks in Linux environments.
-
-- **Current Studies**: I am currently delving into **AWS** (Amazon Web Services), with the aim of acquiring skills in cloud services and management of scalable and secure infrastructures.
+Lenguages and Tools 🛠
+![image](https://github.com/user-attachments/assets/3c1dd439-8698-440b-9a57-5b91d91951c8)
+![image](https://github.com/user-attachments/assets/1cf3aba9-d05f-4326-83d8-05a8150073ee)
+![image](https://github.com/user-attachments/assets/00918dbf-6ec4-4233-affa-6e66eb16a87d)
+![image](https://github.com/user-attachments/assets/0f3e887c-64e9-4201-9e39-72bf8a14538b)
+![image](https://github.com/user-attachments/assets/cb1974a4-6054-4ab9-b81e-a0f9505fe3e5)
 
 
 My goal is to continue growing in the computing field, especially in areas related to IT infrastructure, programming and the cloud. I aspire to develop skills that allow me to face complex challenges in the field of software engineering and systems administration.
 
-![image](https://github.com/user-attachments/assets/3c1dd439-8698-440b-9a57-5b91d91951c8)
 
