@@ -16,4 +16,5 @@ I am Manuel Ignacio Dios Campos, student of Civil Engineering in Computing. I am
 
 My goal is to continue growing in the computing field, especially in areas related to IT infrastructure, programming and the cloud. I aspire to develop skills that allow me to face complex challenges in the field of software engineering and systems administration.
 
-<img width="48" height="48" src="https://img.icons8.com/color/48/linux--v1.png" alt="linux--v1"/>
+![image](https://github.com/user-attachments/assets/3c1dd439-8698-440b-9a57-5b91d91951c8)
+
