@@ -18,5 +18,5 @@ My goal is to continue growing in the computing field, Especially in areas such 
 
 
 ## Connect with me 
-[Instagram] (https://www.instagram.com/di5t0pic/)
+[Instagram](https://www.instagram.com/di5t0pic/)
 
