@@ -1,6 +1,8 @@
 ## Hi, I'm Manuel Dios 👋
 
 I'm student of Civil Engineering in Computing. I like linux. 
+I have been using Linux as my main operating system for two and a half years, which has allowed me to develop a good foundation in system administration and the use of command line tools.
+My goal is to continue growing in the computing field, Especially in areas such as cybersecurity or data science.
 
 
 ## Lenguages and Tools 🛠
@@ -15,6 +17,6 @@ I'm student of Civil Engineering in Computing. I like linux.
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NeoManD10&theme=radical&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 
 
-I have been using Linux as my main operating system for two and a half years, which has allowed me to develop a good foundation in system administration and the use of command line tools.
-My goal is to continue growing in the computing field, Especially in areas such as cybersecurity or data science. 
+## Connect with me 
+[Instagram] (https://www.instagram.com/di5t0pic/)
 
