@@ -18,6 +18,10 @@ My goal is to continue growing in the computing field, Especially in areas such 
 
 
 ## Connect with me 
-[Instagram](https://www.instagram.com/di5t0pic/) ![instagram](https://github.com/user-attachments/assets/4057ea4f-782e-4962-95f5-957568c7ff0b)
+[Instagram](https://www.instagram.com/di5t0pic/) 
+
+<img src="![instagram](https://github.com/user-attachments/assets/4057ea4f-782e-4962-95f5-957568c7ff0b)" alt="icon" width="50" height="50">
+
+
 
 
