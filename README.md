@@ -1,6 +1,6 @@
 ## Hi, I'm Manuel Dios 👋
 
-I'm student of Civil Engineering in Computing. I like linux. 
+I'm student of Civil Engineering in Computing. 
 I have been using Linux as my main operating system for two and a half years, which has allowed me to develop a good foundation in system administration and the use of command line tools.
 My goal is to continue growing in the computing field, Especially in areas such as cybersecurity or data science.
 
