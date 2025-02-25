@@ -15,6 +15,7 @@ My goal is to continue growing in the computing field, Especially in areas such 
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NeoManD10&theme=radical&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+https://camo.githubusercontent.com/0f7c33f2f5f7cadd7b97eb4143074bea9d2028017f1f5486b5bb89e8aca93da0/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67733f757365726e616d653d6d6f697365736e6b732673686f775f69636f6e733d74727565267468656d653d7261646963616c266c6f63616c653d656e266c61796f75743d636f6d70616374
 
 
 ## Connect with me 😊
